@@ -1,0 +1,7 @@
+{
+  "name": "photo-gallety",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
